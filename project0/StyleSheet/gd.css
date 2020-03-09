@@ -1,0 +1,21 @@
+body
+{
+    background-color:violet;
+}
+@media all and (max-width:500px)
+{
+    body{
+        background-color: aqua;
+    }
+}
+table,th,td{
+    background-color: aliceblue;
+    border:1px solid black;
+    width:75%;
+    height:20%;
+}
+.containner
+{
+    margin-left:200px;
+    padding-top:100px;
+}

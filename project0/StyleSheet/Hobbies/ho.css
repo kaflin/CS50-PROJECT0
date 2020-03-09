@@ -1,0 +1,18 @@
+.container-fluid {
+  background-color: #ffff80; }
+
+.table-bordered {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  width: 40%;
+  height: 40%; }
+
+.table-bordered {
+  background-color: violet; }
+
+@media (min-width: 200px) {
+  .containner-fluid .table-bordered {
+    display: inline-block; } }
+
+/*# sourceMappingURL=ho.css.map */
